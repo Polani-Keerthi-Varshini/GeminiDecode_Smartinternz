@@ -36,3 +36,6 @@ GeminiDecode is a cutting-edge solution designed to extract and process data fro
 4. **Model Deployment**
     - Integrate with Web Framework.
     - Host the Application.
+
+## Clone the Project
+git clone https://github.com/Polani-Keerthi-Varshini/GeminiDecode_Smartinternz.git
