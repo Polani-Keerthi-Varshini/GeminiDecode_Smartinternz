@@ -11,3 +11,6 @@ git clone https://github.com/Polani-Keerthi-Varshini/GeminiDecode_Smartinternz.g
 
 ## PROJECT DEMO
 https://youtu.be/5h9GNwmuhk0
+
+## PROJECT DOCUMENTATION & RESULT
+https://drive.google.com/file/d/1gkf8Xc3U8oOUWnE6OXgZrFq7C-DPB73c/view?usp=sharing
